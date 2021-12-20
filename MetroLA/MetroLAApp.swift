@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct MetroLAApp: App {
-    var body: some Scene {
-        WindowGroup {
-            RootView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      RootView()
     }
+  }
 }
